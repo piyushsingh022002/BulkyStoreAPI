@@ -228,3 +228,4 @@
 /Users/piyush/Desktop/Bulky/obj/Debug/net9.0/Bulky.csproj.AssemblyReference.cache
 /Users/piyush/Desktop/Bulky/obj/Debug/net9.0/Bulky.csproj.Up2Date
 /Users/piyush/Desktop/Bulky/obj/Debug/net9.0/compressed/ny8vi1iyl7-i5i4ciimow.gz
+/Users/piyush/Desktop/Bulky/obj/Debug/net9.0/Bulky.sourcelink.json
